@@ -1,10 +1,10 @@
 {
   "info": {
     "relay_url": "wss://nostream.localtest.me",
-    "name": "nostream.localtest.me",
+    "name": "Merrcurr",
     "description": "A nostr relay written in TypeScript.",
-    "pubkey": "replace-with-your-pubkey",
-    "contact": "operator@your-domain.com"
+    "pubkey": "npub1du8vg3lqmfddfwdr52h08etty3speg45dttmyvup6x2pqq5jxf6qdhu524",
+    "contact": "merrcurr@pm.me"
   },
   "network": {
     "max_payload_size": 131072,
